@@ -1,0 +1,16 @@
+What is Immutable Tuples?
+
+Tuples in Python are similar to Python lists but not entirely. Tuples are immutable and ordered and allow duplicate values. Some Characteristics
+of Tuples in Python.
+
+1. We can find items in a tuple since finding any item does not make changes in the tuple.
+2. One cannot add items to a tuple once it is created.
+3. Tuples cannot be appended or extended.
+4. We cannot remove items from a tuple once it is created.
+
+
+Accessing Values in Python Tuples
+Tuples in Python provide two ways by which we can access the elements of a tuple.
+
+Using a positive index
+Using a negative index
